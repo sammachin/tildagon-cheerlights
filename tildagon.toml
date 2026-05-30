@@ -1,0 +1,13 @@
+[app]
+name = "CheerLights"
+category = "Badge"
+
+[entry]
+class = "CheerLightsApp"
+
+[metadata]
+author = "Sam Machin"
+license = "MIT"
+url = "https://github.com/sammachin/tildagon-cheerlights"
+description = "Displays the CheerLights color on badge LEDs via MQTT"
+version = "1.0.0"
