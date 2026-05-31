@@ -3,6 +3,7 @@
 A [Tildagon Badge](https://tildagon.badge.emfcamp.org/) app that connects to the [CheerLights](https://cheerlights.com) service and displays the current color on the badge's 12 LEDs.
 
 ## How it works
+https://www.youtube.com/shorts/dcPXz8bMQpc
 
 On launch the app connects to WiFi, fetches the current CheerLights color via HTTP, and sets all LEDs. It then subscribes to the CheerLights MQTT broker for real-time updates.
 
@@ -24,7 +25,7 @@ From the disconnected screen press **CONFIRM** to reconnect or **CANCEL** to ret
 
 ### From the App Store
 
-Add the `tildagon-app` topic to your fork of this repo and create a release. The app will appear in the [Tildagon App Store](https://apps.badge.emfcamp.org/) within 15 minutes.
+https://apps.badge.emfcamp.org/apps/01003343/
 
 ### Local install
 
